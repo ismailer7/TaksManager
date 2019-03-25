@@ -16,8 +16,8 @@ p.toLeft {
 button,
 input {
   padding: 10px;
-  margin-left: 5px;
   font-size: 18px;
+  margin: 10px;
 }
 
 .taskList {
