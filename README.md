@@ -1,2 +1,0 @@
-# TaksManager
-Created with CodeSandbox

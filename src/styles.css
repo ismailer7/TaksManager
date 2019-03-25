@@ -1,0 +1,44 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+p.toLeft {
+  float: left;
+  justify-content: left;
+  text-align: left;
+}
+
+.item-list button {
+  float: right;
+}
+
+button,
+input {
+  padding: 10px;
+  margin-left: 5px;
+  font-size: 18px;
+}
+
+.taskList {
+  list-style-type: none;
+}
+
+.error {
+  border: 2px solid darkred;
+}
+
+.text-error {
+  color: darkred;
+}
+
+.item-list {
+  padding: 12px;
+  border: 1px solid #000;
+  margin: 5px;
+  width: 50%;
+  margin-left: 25%;
+  clear: both;
+  overflow: hidden;
+  text-align: center;
+}
